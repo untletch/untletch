@@ -6,7 +6,7 @@
 👀 I’m interested in python/golang.<br>
 🌱 I’m currently learning rust.<br>
 :house_with_garden: Nairobi, Kenya.<br>
-:computer: I am currently doing freelance work.<br>
+
 
 ### Skill-set
 <p align="center">
